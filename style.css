@@ -1,0 +1,67 @@
+.navbar-brand{
+    color: yellow;
+}
+.nav{
+    background-color:black;
+}
+.jumbotron{
+    clip-path: polygon(100% 0, 100% 77%, 0 100%, 0 0);
+    background-color: #bdd1f2;  
+}
+#about{
+    text-align: justify;
+    margin: 0;
+    padding: 0;
+}
+#about ul{
+    text-align: justify;
+    margin: 0px;
+    padding: 0px;
+}
+.lead{
+    color: black;
+    text-weight: bolder;
+}
+#gallery span{
+    text-align: center;
+}
+
+#about{
+    text-align: center;
+    font-style: tahoma;
+    font-weight: 200px;
+    text-transform: uppercase;
+    .pace{
+        text-align: justify;
+    }
+    
+    
+  #gallery span{
+    text-align: center;
+    text-transform: capitalize;
+  }
+  figure {
+	transition: transform 0.5s;
+}
+
+figure:hover {
+	transform:scale(1.2);
+
+}
+  figcaption {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Courier new;
+	text-transform: uppercase;
+	color: darkblue;
+}
+#box{
+    text-align: center;
+}
+.container #contact{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
